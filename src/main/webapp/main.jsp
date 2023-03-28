@@ -19,7 +19,7 @@
 			<a href="/mavenweb/TodoFormServlet" class="register">새로운
 				TODO 등록</a>
 			<nav class="menu">
-				<h2 class="status_title">TODO</h2>
+				<h2 class="status_title">할일</h2>
 				<ul class="todo_list" id="todo">
 					<c:forEach items="${todo_list}" var="item">
 						<li class="item">
@@ -35,7 +35,7 @@
 			</nav>
 
 			<nav class="menu">
-				<h2 class="status_title">DOING</h2>
+				<h2 class="status_title">진행</h2>
 				<ul class="todo_list" id="doing">
 					<c:forEach items="${doing_list}" var="item">
 						<li class="item">
@@ -51,7 +51,7 @@
 			</nav>
 
 			<nav class="menu">
-				<h2 class="status_title">DONE</h2>
+				<h2 class="status_title">완료</h2>
 				<ul class="todo_list" id="done">
 					<c:forEach items="${done_list}" var="item">
 						<li class="item">
