@@ -7,4 +7,4 @@
 
 ### 시연 영상
 
-<img width="100%", src="https://github.com/misim3/todolist/issues/1#issue-1647709143"/>
+<img width="100%", src="[https://github.com/misim3/todolist/issues/1#issue-1647709143](https://github.com/misim3/todolist/issues/1#issue-1647709143)"/>
