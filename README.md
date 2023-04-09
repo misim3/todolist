@@ -1,5 +1,7 @@
 # todolist
 
+![img](https://user-images.githubusercontent.com/59640360/230757171-f3c78744-9a52-478d-88dd-7f61c3452e81.png)
+
 ## 1. 주요 스택
 
 - Servelt, Jsp
